@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 :root{
     --primary:#008753;
     --pure:#e1d9d1;
@@ -127,15 +127,6 @@ nav{
     bottom:0;right:0;
     width:60px
 }
-.hero-text img:nth-child(1){
-    width:50%;
-    display:block;
-    margin-top:-100px;
-}
-.hero-text img:nth-child(2){
-    width:60%;
-    display:block;
-=======
 :root {
   --primary: #008753;
   --pure: #e1d9d1;
@@ -249,10 +240,8 @@ nav {
 .button button:nth-child(2):hover {
   background: var(--primary);
   color: var(--pure);
->>>>>>> 53aef6b5182db769036faf050a071ad55179cbe1
 }
 /* Login section */
-<<<<<<< HEAD
 .container{
     height:100vh;
     width:100%;
@@ -492,7 +481,6 @@ hr{
     justify-content: center;
     margin-bottom:1.2em;
 }
-=======
 .container {
   height: 100vh;
   width: 100%;
@@ -612,4 +600,3 @@ hr{
   color: var(--greyz);
   margin-bottom: 10px;
 }
->>>>>>> 53aef6b5182db769036faf050a071ad55179cbe1
